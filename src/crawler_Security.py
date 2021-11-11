@@ -6,11 +6,7 @@ Create: 	November 10, 2021.
 
 from selenium import webdriver  
 import re
-import time  
-import urllib  
-import requests
-import random
-import os
+
 
 
 
