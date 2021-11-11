@@ -8,8 +8,6 @@ This repository is for crawling papers regarding my interest(security patch/open
 * ***Linux or MACOS***: This source code is designed to work on Linux or MACOS.
 * ***[Chrome-driver](https://sites.google.com/chromium.org/driver/)***: Download the driver that fits your chrome version.
 * ***Python 3***
-* ***[Universal-ctags](https://github.com/universal-ctags/ctags)***: for function parsing.
-* ***[Joern](https://github.com/joernio/joern)***: for generate code property graph. (only applied in C/C++) 
 * ***selenium***: for crawling the web page.
 
   * How to install selenium:
